@@ -5,6 +5,6 @@ import '../../../../../../../../../../../main.dart';
 @ReadyForListener()
 Future<void> deepLinkListener(BuildContext context) async {
   EasyEventBus.on('receive_app_links_uri', (url) {
-    print(url); // write your code here.
+    // write your code here.
   });
 }

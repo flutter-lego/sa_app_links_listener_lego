@@ -1,7 +1,7 @@
 name: sa_app_links_listener_lego
 description: "app links listener under simple architecture framework."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_app_links_listener_lego
 
 version: 1.0.0
 
@@ -31,7 +31,7 @@ dev_dependencies:
   bot_toast_lego: #@add
   app_links_lego: #@add
   listener_lego: #@add
-  sa_listener_lego: #@add
+  widget_binding_lego:
 
 flutter:
   assets:

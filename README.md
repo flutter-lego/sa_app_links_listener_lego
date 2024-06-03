@@ -16,5 +16,7 @@ lego create
 lego add sa_app_links_listener_lego
 ```
 
+3. configure app link following the [document](https://github.com/flutter-lego/app_links_lego?tab=readme-ov-file#configuration)
+
 ## Usage
 Usage here
